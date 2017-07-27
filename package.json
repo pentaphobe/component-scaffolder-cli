@@ -1,0 +1,22 @@
+{
+  "name": "component-scaffolder-cli",
+  "version": "0.1.0",
+  "description": "Command line tool for creating React component boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pentaphobe/component-scaffolder-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pentaphobe/component-scaffolder-cli/issues"
+  },
+  "homepage": "https://github.com/pentaphobe/component-scaffolder-cli#readme",
+  "dependencies": {
+    "cli-core": "pentaphobe/cli-core"
+  }
+}
